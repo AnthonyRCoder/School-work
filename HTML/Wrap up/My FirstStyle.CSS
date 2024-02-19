@@ -1,0 +1,16 @@
+/*CSS Style*/
+
+p{
+	color:green;
+}
+b{
+	color:blue;
+}
+#para1{
+	text-align: center;
+	color:red;
+}
+.center{
+	text-align:center;
+	color:orange;
+}

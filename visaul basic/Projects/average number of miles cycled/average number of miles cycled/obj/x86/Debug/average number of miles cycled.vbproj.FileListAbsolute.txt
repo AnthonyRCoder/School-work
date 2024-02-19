@@ -1,0 +1,18 @@
+C:\Users\md09ctar\AppData\Local\Temporary Projects\average number of miles cycled\obj\x86\Debug\average_number_of_miles_cycled.Form1.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\average number of miles cycled\obj\x86\Debug\average_number_of_miles_cycled.Resources.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\average number of miles cycled\obj\x86\Debug\average number of miles cycled.vbproj.GenerateResource.Cache
+C:\Users\md09ctar\AppData\Local\Temporary Projects\average number of miles cycled\bin\Debug\average number of miles cycled.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\average number of miles cycled\bin\Debug\average number of miles cycled.pdb
+C:\Users\md09ctar\AppData\Local\Temporary Projects\average number of miles cycled\bin\Debug\average number of miles cycled.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\average number of miles cycled\obj\x86\Debug\average number of miles cycled.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\average number of miles cycled\obj\x86\Debug\average number of miles cycled.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\average number of miles cycled\obj\x86\Debug\average number of miles cycled.pdb
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\average number of miles cycled\average number of miles cycled\obj\x86\Debug\average number of miles cycled.exe
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\average number of miles cycled\average number of miles cycled\obj\x86\Debug\average number of miles cycled.xml
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\average number of miles cycled\average number of miles cycled\obj\x86\Debug\average number of miles cycled.pdb
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\average number of miles cycled\average number of miles cycled\obj\x86\Debug\average_number_of_miles_cycled.Form1.resources
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\average number of miles cycled\average number of miles cycled\obj\x86\Debug\average_number_of_miles_cycled.Resources.resources
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\average number of miles cycled\average number of miles cycled\obj\x86\Debug\average number of miles cycled.vbproj.GenerateResource.Cache
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\average number of miles cycled\average number of miles cycled\bin\Debug\average number of miles cycled.exe
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\average number of miles cycled\average number of miles cycled\bin\Debug\average number of miles cycled.pdb
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\average number of miles cycled\average number of miles cycled\bin\Debug\average number of miles cycled.xml

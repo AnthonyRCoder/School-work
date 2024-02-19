@@ -1,0 +1,42 @@
+\\gs259svr001\Pupils\MD09CTAR\computing\visaul basic\Alhletics Team Manager\Alhletics Team Manager\bin\Debug\Alhletics Team Manager.exe
+\\gs259svr001\Pupils\MD09CTAR\computing\visaul basic\Alhletics Team Manager\Alhletics Team Manager\bin\Debug\Alhletics Team Manager.pdb
+\\gs259svr001\Pupils\MD09CTAR\computing\visaul basic\Alhletics Team Manager\Alhletics Team Manager\bin\Debug\Alhletics Team Manager.xml
+\\gs259svr001\Pupils\MD09CTAR\computing\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\gs259svr001\Pupils\MD09CTAR\computing\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\gs259svr001\Pupils\MD09CTAR\computing\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.vbproj.GenerateResource.Cache
+\\gs259svr001\Pupils\MD09CTAR\computing\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.exe
+\\gs259svr001\Pupils\MD09CTAR\computing\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.xml
+\\gs259svr001\Pupils\MD09CTAR\computing\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.pdb
+\\gs259svr001\Pupils\MD09CTAR\computing\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.exe
+E:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.xml
+E:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.pdb
+E:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\bin\Debug\Alhletics Team Manager.exe
+E:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\bin\Debug\Alhletics Team Manager.pdb
+E:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\bin\Debug\Alhletics Team Manager.xml
+E:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.vbproj.GenerateResource.Cache
+E:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.vbprojAssemblyReference.cache
+D:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.exe
+D:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.xml
+D:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.pdb
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.vbprojAssemblyReference.cache
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.exe
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.xml
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.pdb
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Form2.resources
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Form3.resources
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Form4.resources
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Form5.resources
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Form6.resources
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.vbproj.GenerateResource.cache
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\obj\x86\Debug\Alhletics Team Manager.vbproj.CoreCompileInputs.cache
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\bin\Debug\Alhletics Team Manager.exe
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\bin\Debug\Alhletics Team Manager.pdb
+H:\visaul basic\Alhletics Team Manager\Alhletics Team Manager\bin\Debug\Alhletics Team Manager.xml

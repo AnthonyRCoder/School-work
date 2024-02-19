@@ -1,0 +1,18 @@
+C:\Users\md09ctar\AppData\Local\Temporary Projects\call it Judge\obj\x86\Debug\call_it_Judge.Form1.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\call it Judge\obj\x86\Debug\call_it_Judge.Resources.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\call it Judge\obj\x86\Debug\call it Judge.vbproj.GenerateResource.Cache
+C:\Users\md09ctar\AppData\Local\Temporary Projects\call it Judge\bin\Debug\call it Judge.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\call it Judge\bin\Debug\call it Judge.pdb
+C:\Users\md09ctar\AppData\Local\Temporary Projects\call it Judge\bin\Debug\call it Judge.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\call it Judge\obj\x86\Debug\call it Judge.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\call it Judge\obj\x86\Debug\call it Judge.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\call it Judge\obj\x86\Debug\call it Judge.pdb
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\call it Judge\call it Judge\obj\x86\Debug\call it Judge.exe
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\call it Judge\call it Judge\obj\x86\Debug\call it Judge.xml
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\call it Judge\call it Judge\obj\x86\Debug\call it Judge.pdb
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\call it Judge\call it Judge\bin\Debug\call it Judge.exe
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\call it Judge\call it Judge\bin\Debug\call it Judge.pdb
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\call it Judge\call it Judge\bin\Debug\call it Judge.xml
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\call it Judge\call it Judge\obj\x86\Debug\call_it_Judge.Form1.resources
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\call it Judge\call it Judge\obj\x86\Debug\call_it_Judge.Resources.resources
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\call it Judge\call it Judge\obj\x86\Debug\call it Judge.vbproj.GenerateResource.Cache

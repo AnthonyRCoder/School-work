@@ -1,0 +1,18 @@
+C:\Users\md09ctar\AppData\Local\Temporary Projects\textbox and ladel\bin\Debug\textbox and ladel.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\textbox and ladel\bin\Debug\textbox and ladel.pdb
+C:\Users\md09ctar\AppData\Local\Temporary Projects\textbox and ladel\bin\Debug\textbox and ladel.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\textbox and ladel\obj\x86\Debug\textbox_and_ladel.Form1.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\textbox and ladel\obj\x86\Debug\textbox_and_ladel.Resources.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\textbox and ladel\obj\x86\Debug\textbox and ladel.vbproj.GenerateResource.Cache
+C:\Users\md09ctar\AppData\Local\Temporary Projects\textbox and ladel\obj\x86\Debug\textbox and ladel.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\textbox and ladel\obj\x86\Debug\textbox and ladel.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\textbox and ladel\obj\x86\Debug\textbox and ladel.pdb
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\textbox and ladel\textbox and ladel\obj\x86\Debug\textbox and ladel.exe
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\textbox and ladel\textbox and ladel\obj\x86\Debug\textbox and ladel.xml
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\textbox and ladel\textbox and ladel\obj\x86\Debug\textbox and ladel.pdb
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\textbox and ladel\textbox and ladel\bin\Debug\textbox and ladel.exe
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\textbox and ladel\textbox and ladel\bin\Debug\textbox and ladel.pdb
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\textbox and ladel\textbox and ladel\bin\Debug\textbox and ladel.xml
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\textbox and ladel\textbox and ladel\obj\x86\Debug\textbox_and_ladel.Form1.resources
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\textbox and ladel\textbox and ladel\obj\x86\Debug\textbox_and_ladel.Resources.resources
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\textbox and ladel\textbox and ladel\obj\x86\Debug\textbox and ladel.vbproj.GenerateResource.Cache

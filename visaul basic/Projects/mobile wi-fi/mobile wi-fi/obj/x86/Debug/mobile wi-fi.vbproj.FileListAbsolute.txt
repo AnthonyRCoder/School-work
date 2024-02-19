@@ -1,0 +1,20 @@
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\mobile wi-fi\mobile wi-fi\bin\Debug\mobile wi-fi.exe
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\mobile wi-fi\mobile wi-fi\bin\Debug\mobile wi-fi.pdb
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\mobile wi-fi\mobile wi-fi\bin\Debug\mobile wi-fi.xml
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile_wi_fi.Form1.resources
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile_wi_fi.Resources.resources
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile wi-fi.vbproj.GenerateResource.Cache
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile wi-fi.exe
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile wi-fi.xml
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile wi-fi.pdb
+H:\Projects\mobile wi-fi\mobile wi-fi\bin\Debug\mobile wi-fi.exe
+H:\Projects\mobile wi-fi\mobile wi-fi\bin\Debug\mobile wi-fi.pdb
+H:\Projects\mobile wi-fi\mobile wi-fi\bin\Debug\mobile wi-fi.xml
+H:\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile wi-fi.vbprojAssemblyReference.cache
+H:\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile_wi_fi.Form1.resources
+H:\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile_wi_fi.Resources.resources
+H:\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile wi-fi.vbproj.GenerateResource.cache
+H:\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile wi-fi.vbproj.CoreCompileInputs.cache
+H:\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile wi-fi.exe
+H:\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile wi-fi.xml
+H:\Projects\mobile wi-fi\mobile wi-fi\obj\x86\Debug\mobile wi-fi.pdb

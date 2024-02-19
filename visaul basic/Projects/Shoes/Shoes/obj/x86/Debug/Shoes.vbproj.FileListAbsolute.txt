@@ -1,0 +1,9 @@
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\Shoes\Shoes\bin\Debug\Shoes.exe
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\Shoes\Shoes\bin\Debug\Shoes.pdb
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\Shoes\Shoes\bin\Debug\Shoes.xml
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\Shoes\Shoes\obj\x86\Debug\Shoes.Form1.resources
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\Shoes\Shoes\obj\x86\Debug\Shoes.Resources.resources
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\Shoes\Shoes\obj\x86\Debug\Shoes.vbproj.GenerateResource.Cache
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\Shoes\Shoes\obj\x86\Debug\Shoes.exe
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\Shoes\Shoes\obj\x86\Debug\Shoes.xml
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\Shoes\Shoes\obj\x86\Debug\Shoes.pdb

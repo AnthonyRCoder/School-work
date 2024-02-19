@@ -1,0 +1,9 @@
+C:\Users\md09ctar\AppData\Local\Temporary Projects\name\obj\x86\Debug\name.Form1.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\name\obj\x86\Debug\name.Resources.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\name\obj\x86\Debug\name.vbproj.GenerateResource.Cache
+C:\Users\md09ctar\AppData\Local\Temporary Projects\name\bin\Debug\name.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\name\bin\Debug\name.pdb
+C:\Users\md09ctar\AppData\Local\Temporary Projects\name\bin\Debug\name.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\name\obj\x86\Debug\name.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\name\obj\x86\Debug\name.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\name\obj\x86\Debug\name.pdb

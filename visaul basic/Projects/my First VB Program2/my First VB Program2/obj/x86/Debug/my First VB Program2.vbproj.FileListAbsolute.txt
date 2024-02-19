@@ -1,0 +1,9 @@
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\my First VB Program2\my First VB Program2\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\my First VB Program2\my First VB Program2\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\my First VB Program2\my First VB Program2\obj\x86\Debug\my First VB Program2.vbproj.GenerateResource.Cache
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\my First VB Program2\my First VB Program2\bin\Debug\my First VB Program2.exe
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\my First VB Program2\my First VB Program2\bin\Debug\my First VB Program2.pdb
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\my First VB Program2\my First VB Program2\bin\Debug\my First VB Program2.xml
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\my First VB Program2\my First VB Program2\obj\x86\Debug\my First VB Program2.exe
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\my First VB Program2\my First VB Program2\obj\x86\Debug\my First VB Program2.xml
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\my First VB Program2\my First VB Program2\obj\x86\Debug\my First VB Program2.pdb

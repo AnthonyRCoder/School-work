@@ -1,0 +1,17 @@
+h1{font-size: 24pt; font-style:bold;
+text-align:right;font-family:Helvetica;color:white;}
+
+h2{font-size: 18pt; font-style:bold;
+text-align:left; font-family:Helvetica;
+color:black}
+
+p{font-size:12pt; color:black;
+text_align:left}
+
+.homepageH1{background:darkred}
+.homepageH2{background:pink}
+.homepageBody{background:lightblue}
+.homepagepics{width:200px;height:200px}
+
+
+	

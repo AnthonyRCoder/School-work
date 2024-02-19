@@ -1,0 +1,18 @@
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Subject test\obj\x86\Debug\Subject_test.Form1.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Subject test\obj\x86\Debug\Subject_test.Resources.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Subject test\obj\x86\Debug\Subject test.vbproj.GenerateResource.Cache
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Subject test\bin\Debug\Subject test.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Subject test\bin\Debug\Subject test.pdb
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Subject test\bin\Debug\Subject test.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Subject test\obj\x86\Debug\Subject test.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Subject test\obj\x86\Debug\Subject test.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Subject test\obj\x86\Debug\Subject test.pdb
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Subject test\Subject test\obj\x86\Debug\Subject test.exe
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Subject test\Subject test\obj\x86\Debug\Subject test.xml
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Subject test\Subject test\obj\x86\Debug\Subject test.pdb
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Subject test\Subject test\bin\Debug\Subject test.exe
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Subject test\Subject test\bin\Debug\Subject test.pdb
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Subject test\Subject test\bin\Debug\Subject test.xml
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Subject test\Subject test\obj\x86\Debug\Subject_test.Form1.resources
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Subject test\Subject test\obj\x86\Debug\Subject_test.Resources.resources
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Subject test\Subject test\obj\x86\Debug\Subject test.vbproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Anthony\obj\x86\Debug\Anthony.Form1.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Anthony\obj\x86\Debug\Anthony.Resources.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Anthony\obj\x86\Debug\Anthony.vbproj.GenerateResource.Cache
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Anthony\bin\Debug\Anthony.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Anthony\bin\Debug\Anthony.pdb
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Anthony\bin\Debug\Anthony.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Anthony\obj\x86\Debug\Anthony.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Anthony\obj\x86\Debug\Anthony.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\Anthony\obj\x86\Debug\Anthony.pdb
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Anthony\Anthony\obj\x86\Debug\Anthony.xml
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Anthony\Anthony\obj\x86\Debug\Anthony.pdb
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Anthony\Anthony\bin\Debug\Anthony.exe
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Anthony\Anthony\bin\Debug\Anthony.pdb
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Anthony\Anthony\bin\Debug\Anthony.xml
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Anthony\Anthony\obj\x86\Debug\Anthony.Form1.resources
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Anthony\Anthony\obj\x86\Debug\Anthony.Resources.resources
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Anthony\Anthony\obj\x86\Debug\Anthony.vbproj.GenerateResource.Cache
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Anthony\Anthony\obj\x86\Debug\Anthony.exe

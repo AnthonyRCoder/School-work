@@ -1,0 +1,9 @@
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Area\Area\bin\Debug\Area.exe
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Area\Area\bin\Debug\Area.pdb
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Area\Area\bin\Debug\Area.xml
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Area\Area\obj\x86\Debug\Area.Form1.resources
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Area\Area\obj\x86\Debug\Area.Resources.resources
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Area\Area\obj\x86\Debug\Area.vbproj.GenerateResource.Cache
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Area\Area\obj\x86\Debug\Area.exe
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Area\Area\obj\x86\Debug\Area.xml
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Area\Area\obj\x86\Debug\Area.pdb

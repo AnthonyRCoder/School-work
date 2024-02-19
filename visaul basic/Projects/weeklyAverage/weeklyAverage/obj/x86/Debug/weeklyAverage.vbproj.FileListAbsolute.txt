@@ -1,0 +1,9 @@
+C:\Users\md09ctar\AppData\Local\Temporary Projects\weeklyAverage\obj\x86\Debug\weeklyAverage.Form1.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\weeklyAverage\obj\x86\Debug\weeklyAverage.Resources.resources
+C:\Users\md09ctar\AppData\Local\Temporary Projects\weeklyAverage\obj\x86\Debug\weeklyAverage.vbproj.GenerateResource.Cache
+C:\Users\md09ctar\AppData\Local\Temporary Projects\weeklyAverage\bin\Debug\weeklyAverage.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\weeklyAverage\bin\Debug\weeklyAverage.pdb
+C:\Users\md09ctar\AppData\Local\Temporary Projects\weeklyAverage\bin\Debug\weeklyAverage.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\weeklyAverage\obj\x86\Debug\weeklyAverage.exe
+C:\Users\md09ctar\AppData\Local\Temporary Projects\weeklyAverage\obj\x86\Debug\weeklyAverage.xml
+C:\Users\md09ctar\AppData\Local\Temporary Projects\weeklyAverage\obj\x86\Debug\weeklyAverage.pdb

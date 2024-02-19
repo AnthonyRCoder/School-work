@@ -1,0 +1,9 @@
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Adding two number\Adding two number\bin\Debug\Adding two number.exe
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Adding two number\Adding two number\bin\Debug\Adding two number.pdb
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Adding two number\Adding two number\bin\Debug\Adding two number.xml
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Adding two number\Adding two number\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Adding two number\Adding two number\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Adding two number\Adding two number\obj\x86\Debug\Adding two number.vbproj.GenerateResource.Cache
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Adding two number\Adding two number\obj\x86\Debug\Adding two number.exe
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Adding two number\Adding two number\obj\x86\Debug\Adding two number.xml
+\\gs259svr001\pupils\MD09CTAR\Visual Studio 2010\Projects\Adding two number\Adding two number\obj\x86\Debug\Adding two number.pdb

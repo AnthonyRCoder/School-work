@@ -1,0 +1,9 @@
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\miles per gellon program\miles per gellon program\obj\x86\Debug\miles_per_gellon_program.Form1.resources
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\miles per gellon program\miles per gellon program\obj\x86\Debug\miles_per_gellon_program.Resources.resources
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\miles per gellon program\miles per gellon program\obj\x86\Debug\miles per gellon program.vbproj.GenerateResource.Cache
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\miles per gellon program\miles per gellon program\bin\Debug\miles per gellon program.exe
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\miles per gellon program\miles per gellon program\bin\Debug\miles per gellon program.pdb
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\miles per gellon program\miles per gellon program\bin\Debug\miles per gellon program.xml
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\miles per gellon program\miles per gellon program\obj\x86\Debug\miles per gellon program.exe
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\miles per gellon program\miles per gellon program\obj\x86\Debug\miles per gellon program.xml
+\\gs259svr001\Pupils\MD09CTAR\Visual Studio 2010\Projects\miles per gellon program\miles per gellon program\obj\x86\Debug\miles per gellon program.pdb

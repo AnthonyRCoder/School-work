@@ -1,0 +1,9 @@
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\Capturing Olympus\Capturing Olympus\bin\Debug\Capturing Olympus.exe
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\Capturing Olympus\Capturing Olympus\bin\Debug\Capturing Olympus.pdb
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\Capturing Olympus\Capturing Olympus\bin\Debug\Capturing Olympus.xml
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\Capturing Olympus\Capturing Olympus\obj\x86\Debug\Capturing_Olympus.Form1.resources
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\Capturing Olympus\Capturing Olympus\obj\x86\Debug\Capturing_Olympus.Resources.resources
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\Capturing Olympus\Capturing Olympus\obj\x86\Debug\Capturing Olympus.vbproj.GenerateResource.Cache
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\Capturing Olympus\Capturing Olympus\obj\x86\Debug\Capturing Olympus.exe
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\Capturing Olympus\Capturing Olympus\obj\x86\Debug\Capturing Olympus.xml
+\\gs259svr001\pupils\md09ctar\visual studio 2010\Projects\Capturing Olympus\Capturing Olympus\obj\x86\Debug\Capturing Olympus.pdb
